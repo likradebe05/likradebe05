@@ -19,11 +19,13 @@ I believe technology should empower, protect, and resonate. My development philo
 
 ## 🚀 Current Projects
 
-### 💰 FinTech App MVP
+### 💰 FinTech App MVP 
 A secure, modular FinTech app for students and young professionals:
 - MVP architecture with encrypted storage and biometric login  
 - Gamified savings nudges and financial literacy features  
 - Emotionally intelligent UI with symbolic visuals and accessible design
+- (https://github.com/likradebe05/StudySync)
+
 
 ### 🎯 Career Preparedness
 - Refining CV, cover letter, and outreach documentation  
