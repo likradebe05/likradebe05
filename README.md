@@ -17,12 +17,16 @@ I believe technology should empower, protect, and resonate. My development philo
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-###Agro-tech App
-This app is aimed at bringing together the agriculture and the tech industry
--Role-based-access
--Payment gate and webhooks
+TerraStream(Pallego Int) | Multi-Tenant Agri-Tech SaaS
+A Java-based platform connecting farmers with drone service providers for precision agricultural monitoring.
+-Multi-Role Ecosystem: Tailored workflows for Clients, Operators, and Admins.
+-Smart Bookings: Field-size-based pricing and real-time status tracking.
+-Fintech Integrated: Automated invoicing with Paystack payment gateway.
+-Full Lifecycle: Manages services from initial request to PDF report export.
+Tech Stack: Java (Spring Boot), Paystack API, Multi-tenant Architecture.
+[View the Project on GitHub](https://github.com/your-username/your-repo-name)
 
 
 
