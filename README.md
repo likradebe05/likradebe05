@@ -26,7 +26,7 @@ A Java-based platform connecting farmers with drone service providers for precis
 -Fintech Integrated: Automated invoicing with Paystack payment gateway.
 -Full Lifecycle: Manages services from initial request to PDF report export.
 Tech Stack: Java (Spring Boot), Paystack API, Multi-tenant Architecture.
-[View the Project on GitHub](https://github.com/your-username/your-repo-name)
+[View the Project on GitHub](https://github.com/likradebe05/Pellego-Int.git)
 
 
 
