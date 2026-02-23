@@ -19,25 +19,24 @@ I believe technology should empower, protect, and resonate. My development philo
 
 ## 🚀 Current Projects
 
-### 💰 FinTech App MVP 
-A secure, modular FinTech app for students and young professionals:
-- MVP architecture with encrypted storage and biometric login  
-- Gamified savings nudges and financial literacy features  
-- Emotionally intelligent UI with symbolic visuals and accessible design
-- (https://github.com/likradebe05/StudySync)
+###Agro-tech App
+This app is aimed at bringing together the agriculture and the tech industry
+-Role-based-access
+-Payment gate and webhooks
 
 
-### 🎯 Career Preparedness
+
+### Career Preparedness
 - Refining CV, cover letter, and outreach documentation  
 - Preparing for roles in secure mobile development and ethical tech innovation
 
-### 📚  Study and Planner App
+### Study and Planner App
 A personalised learning companion for Students
 -Flashcard-based revision with spaced repetition and progress tracking
 -Modular architecture for easy content updates and feature expansion
 -Designed with symbolic UI elements to reinforce memory and emotional engagement
 
-### 📦 Inventory Management System
+### Inventory Management System
 A scalable inventory solution for small businesses and student entrepreneurs:
 -Built with secure data handling and role-based access control
 -Features include stock tracking, supplier management, and low-inventory alerts
