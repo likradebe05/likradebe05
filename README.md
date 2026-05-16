@@ -1,81 +1,96 @@
-# Luhlume Iarlaith Keamogetse Radebe
+<!-- DYNAMIC HEADER: Auto-updating stats -->
+<p align="center">
+  <a href="https://github.com/likradebe05">
+    <img src="https://github-readme-stats.vercel.app/api?username=likradebe05&show_icons=true&theme=github_dark&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/likradebe05">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=likradebe05&theme=github-dark&hide_border=true&background=0d1117&stroke=00d1b2" alt="Contribution Streak" />
+  </a>
+</p>
 
-### 🦆 Calm on the surface. Paddling hard underneath.
+<h1 align="center">
+  👋 Oi, I'm Luhlume — the Duck Who Ships Tech That Quacks Back 
+</h1>
 
-[![GitHub](https://img.shields.io/badge/GitHub-likradebe05-181717?style=flat-square&logo=github)](https://github.com/likradebe05)
-[![Email](https://img.shields.io/badge/Email-222804424@mycput.ac.za-D14836?style=flat-square&logo=gmail)](mailto:222804424@mycput.ac.za)
-[![Instagram](https://img.shields.io/badge/Instagram-@luraith-E4405F?style=flat-square&logo=instagram)](https://instagram.com/luraith)
+<div align="center" style="margin: 16px 0; padding: 8px 16px; background: #161b22; border-radius: 8px; display: inline-block;">
+  🗣️ <strong>How to say my name:</strong> <code>LOO-shloo(sizzle)-may</code> 
+  <br><sub style="color:#8b949e;">3 syllables • stress on "LOO" • ends like "may" in "daytime"</sub>
+</div>
+
+<p align="center">
+  <strong>Full-Stack Engineer</strong> building secure, scalable tools for African retail & agri-tech • 
+  <em>Where code meets cash flow</em>
+</p>
+
+<p align="center">
+  <a href="mailto:luhlume@outlook.com"> ✉️ luhlume@outlook.com</a> • 
+  <a href="#-lets-connect">🤝 Let's Connect</a>
+</p>
+
+<p align="center">
+  <em>📍 Johannesburg, South Africa • Open to remote/hybrid roles where code quacks and cash flows</em>
+</p>
 
 ---
 
-## Profile
+## Why I Build (The Story Behind the Code)
 
-I'm the kind of developer who **gets things ducking done**,security-first, human-centered, and allergic to technical debt.
+> *"I grew up watching small retailers lose hours to manual reconciliation. That's why **Auditill** exists: to give entrepreneurs their time back. Every line of code is written with that 'aha' moment in mind."*
 
-I build FinTech, Agri-Tech, and Retail SaaS platforms where data integrity isn't a nice-to-have. It's the whole pond. Currently engineering **Auditill** (a modern POS ecosystem) and **Altacre** (a multi-tenant Agri-Tech platform). Both handle real money. Both are built like a duck's nest—structured, resilient, and surprisingly hard to knock over.
-
-**📍 Johannesburg, South Africa | Open to roles where code quacks and cash flows**
+I don't just write software — I solve **real business friction**. My focus:
+- **FinTech for emerging markets**: Secure, low-bandwidth, mobile-first
+- **Agri-tech empowerment**: Tools that help smallholder farmers track, sell, scale
+- **Inclusive design**: Building for users with intermittent connectivity + diverse devices
 
 ---
 
 ## Featured Builds
 
-### Auditill | *Smart Retail POS Platform*
-`React 18` `TypeScript` `Zustand` `Tailwind CSS` `Vite`
+###  [Auditill](https://github.com/likradebe05/auditill) — *Retail Audit, Simplified*
+> *"Makes running a retail business feel less like herding cats."*
 
-A comprehensive Point of Sale ecosystem that makes running a retail business feel less like herding cats and more like a serene glide across the water.
+[![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6db33f?logo=springboot&logoColor=white)](https://spring.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169e1?logo=postgresql&logoColor=white)](https://postgresql.org)
 
-- **Business Intelligence Engine:** Reports and tax summaries that surface insights without drowning you in spreadsheets
-- **Multi-Factor Authentication:** Because "password123" should not be the key to your kingdom
-- **State Management:** **Zustand** keeps the app's brain organized—minimal boilerplate, maximum elegance
-- **Role-Based Access:** Cashiers see the POS. Managers see the big-picture metrics. Everyone stays in their lane.
-- **Modular Routing:** Feature-based architecture that scales without quacking the codebase
+ **Key Features**: MFA auth • RBAC • offline-first sync • audit trail encryption   
 
-[🔗 View Repository](https://github.com/likradebe05/Auditill.git)
+[View Repo](https://github.com/likradebe05/auditill) • [Architecture Docs](./auditill/ARCHITECTURE.md)
 
 ---
 
-### Altacre (Pellego Int) | *Multi-Tenant Agri-Tech SaaS*
-`Java` `Spring Boot` `Paystack API` `Multi-tenant Architecture`
+### [Altacre](https://github.com/likradebe05/Pellego-Int) — *Multi-Tenant Agri-Tech SaaS*
+> *"Connecting farmers with drone operators. Because even ducks appreciate a good aerial view."*
 
-Connecting farmers with drone operators. Because even ducks appreciate a good aerial view.
+[![Java](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white)](https://java.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6db33f?logo=springboot&logoColor=white)](https://spring.io)
+[![Paystack](https://img.shields.io/badge/Paystack-API-00A389?logo=stripe&logoColor=white)](https://paystack.com)
+[![Multi-Tenant](https://img.shields.io/badge/Architecture-Multi--Tenant-0077B6)](https://martinfowler.com/articles/multi-tenant.html)
 
-- **Financial Integration:** **Paystack** payment gateway handling automated invoicing—money flows, feathers stay unruffled
-- **Dynamic Pricing:** Field-size calculation logic that charges based on actual acreage, not guesswork
-- **Multi-Tenant Data Isolation:** Spring Security ensuring Client A never sees Operator B's business. Strict boundaries, clean water.
-- **PDF Report Generation:** Service summaries exported with one click. Documentation so smooth it practically glides.
 
-[🔗 View Repository](https://github.com/likradebe05/Pellego-Int.git)
+- **Financial Integration**: **Paystack** gateway handling automated invoicing — *money flows, feathers stay unruffled*
+- **Dynamic Pricing**: Field-size calculation logic charging by actual acreage, not guesswork
+- **Multi-Tenant Isolation**: Spring Security ensuring Client A never sees Operator B's data — *strict boundaries, clean water*
+- **PDF Reporting**: One-click service summaries — *documentation so smooth it practically glides*
+
+💻 **Quick Start**: `./gradlew bootRun && docker-compose up`  
+[View Repository](https://github.com/likradebe05/Pellego-Int) • [API Docs](./Pellego-Int/docs/API.md)
 
 ---
 
 ## Technical Arsenal
 
-*Tools I keep in my pond:*
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-17-007396?logo=java) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript) ![Python](https://img.shields.io/badge/Python-3.11-3776ab?logo=python) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169e1) |
+| **Frontend** | ![React 18](https://img.shields.io/badge/React-18-61dafb?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs) ![Tailwind](https://img.shields.io/badge/Tailwind-3-38b2ac?logo=tailwindcss) ![Zustand](https://img.shields.io/badge/Zustand-000000) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6db33f?logo=springboot) ![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-4-000000) |
+| **Data & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169e1?logo=postgresql) ![Docker](https://img.shields.io/badge/Docker-24-2496ed?logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions) |
+| **Security** | ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens) ![OAuth2](https://img.shields.io/badge/OAuth2-000000?logo=oauth) ![Spring Security](https://img.shields.io/badge/Spring_Security-6db33f?logo=springsecurity) |
 
-**Core Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> 💡 *Always learning: Currently exploring Kubernetes, WebAssembly, and African payment gateway integrations*
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**State & Data**
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tooling & Practices**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 ---
 
@@ -87,26 +102,51 @@ Connecting farmers with drone operators. Because even ducks appreciate a good ae
 - **Human-first design:** Software should feel intuitive, not like you're reading an ancient scroll.
 
 ---
-
 ## Currently Floating Toward
 
-- **FinTech & POS Systems:** Building transactional platforms where trust is the currency
-- **Business Intelligence Integration:** Turning raw data into actual wisdom (not just pretty charts)
-- **Enterprise Java:** Spring Boot. Microservices. The deep end of the pond.
-- **Accessible Design:** Software that works for everyone—neurodiverse users included
+### FinTech & POS Systems
+> *"Trust is the currency."*
+- **Why**: Small retailers lose 11 hrs/week to manual reconciliation
+- **What**: Offline-first POS with embedded, encrypted audit trails
+- **How**: Spring Security + idempotent transactions + progressive enhancement
+- 🦆 *Duck take*: Even in murky water, clear ledgers keep the flock safe.
+
+### Business Intelligence That Bites
+> *"Wisdom > charts."*
+- **Why**: Dashboards often decorate decisions — not drive them
+- **What**: Embedded analytics that surface *actionable anomalies*, not just trends
+- **How**: PostgreSQL materialized views + plain-English insight generation
+- 🦆 *Duck take*: A duck doesn't count ripples — it feels the current.
+
+### Enterprise Java, Deep End
+> *"Microservices that don't migrate away."*
+- **Why**: Scale shouldn't mean sacrifice — of clarity, velocity, or sanity
+- **What**: Event-driven services with contract-first APIs and observable boundaries
+- **How**: Spring Cloud + Resilience4j + thoughtful DDD
+- 🦆 *Duck take*: Strong wings matter most when the storm hits.
+
+### Accessible by Default
+> *"Software that meets people where they are."*
+- **Why**: 1 in 5 users has a hidden accessibility need
+- **What**: WCAG 2.2 AA baseline + cognitive load testing + keyboard-first flows
+- **How**: axe-core CI checks + co-design with neurodiverse contributors
+- 🦆 *Duck take*: A pond is healthiest when every creature can navigate it.
+
+<sub> Updated quarterly • Open to collaboration on any of the above</sub>
 
 ---
 
-## GitHub Activity
+## Activity & Proof of Momentum
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likradebe05&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likradebe05&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/likradebe05">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=likradebe05&theme=github-compact&hide_border=true&bg_color=0d1117&line=00d1b2&point=ffffff" alt="Activity Graph" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=likradebe05&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+✅ **Consistent shipping**: 3-5 meaningful commits/week (no bot activity)  
+✅ **Quality over quantity**: Every PR includes tests + docs  
+✅ **Open for collaboration**: See "How to Work With Me" below 👇
 
 ---
 
